@@ -29,3 +29,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheik-32&" alt="sheik-32" /></p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Mohammed_Sheik?theme=dark&font=Marcellus&ext=contest)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SHEIK-32&bg_color=000000&color=ffffff&line=11ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
